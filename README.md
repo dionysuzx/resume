@@ -81,7 +81,7 @@ Software Engineering Intern
 
 ## Languages/Frameworks
 
-- Rust, TypeScript, React/Svelte, Python, Java, SQL, Kubernetes, DevOps, GitHub actions, C, C#, AWS/GCP.
+- Rust, TypeScript, React/Svelte, Python, Java, Go, SQL, Kubernetes, DevOps, GitHub actions, C, C#, AWS/GCP.
 - I like Rust as my main backend language, TypeScript/Svelte as my main frontend, and Python as my main scripting. I pick the tool for the job.
 - Comfortable with Linux/Unix, DevOps, Kubernetes, and GitHub.
 - Comfortable with AI assisted development (Codex / Claude).
