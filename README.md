@@ -25,17 +25,16 @@ Math and Computer Science \
 Software Engineer
 
 - Built and maintained the infrastructure for coordinating Ethereum core development.
+- Utilized bleeding edge techniques in AI assisted development.
 
 ### Future Kitty Labs
 
 **Aug 2024 to present** \
 Software Engineer
 
-- Developed Kittynode, a tool for easily running an Ethereum node at home. Written in Rust/Svelte.
 - Worked with Taiko Labs on developing the DevOps infra for a new rollup design codenamed Gwyneth.
-- Collaborated on a project which applied Polis to social consensus around contentious EIPs such as EOF.
+- Developed Kittynode, a tool for easily running an Ethereum node at home. Written in Rust/Svelte.
 - Co-authored an early specification for applying deep funding to community decision-making.
-- Attended Devcon 2024 and Devconnect 2025 to continue deep involvement with Ethereum.
 - Gave a [talk at Devconnect](https://www.youtube.com/watch?v=xu8eqIvihfE) about "Making Ethereum Visible".
 
 ### Taiko Labs
@@ -46,10 +45,7 @@ Senior Software Engineer + Head of Developer Experience
 - Wrote our entire rollup devops infra based on ethereum-helm-charts, today this is used by Nethermind surge rollup (see [here on GitHub](https://github.com/NethermindEth/taiko-helm-charts/commit/e0d2bd3203db5f33c621a83d3fa268197cf7cbe8)).
 - Improved developer tooling and experience in the Taiko monorepo. This was not only for internal engineers, but external contributors. Made sure the project was easy to contribute to open source.
 - Wrote all the documentation and designed the documentation framework.
-- Audited smart contracts.
-- Did presentations on Taiko architecture / traveled to conferences to speak about Taiko's based rollup architecture.
-- Wrote and maintained the main website for a while.
-- Fixed bugs and simplified logic in the bridge UI (written in Svelte).
+- Audited all smart contracts.
 
 ### GameStop Blockchain
 
@@ -69,20 +65,6 @@ Software Engineer
 
 - Standard CRUD app, written in Java spring boot. Learned all the basics of software engineering, code review, testing, and design patterns mainly in the style of OOP (SOLID, DTOs, etc). I've since taken a liking to more of a functional programming style. We used standard stuff: Ansible, Docker, Java, MySQL, Jenkins, React.
 - Lots of testing with Selenium and in Java.
-
-### Viasat
-
-**May 2019 to Aug 2019** \
-Software Engineering Intern
-
-- Standard CRUD internal tool. Angular, Express, MongoDB (MEAN).
-
-### Carahsoft
-
-**Jul 2018 to Aug 2018** \
-Software Engineering Intern
-
-- Standard CRUD internal tool written in C#. My first software gig. Did some JavaScript too.
 
 ## Languages/Frameworks
 
